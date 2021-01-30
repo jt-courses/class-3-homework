@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html>
-<body>
+Here are my two truths and a lie
 
-<h1> Two Truths and a Lie About Me </h1>
-
-<ul>
-<li>I am one of 6 kids</li>
-<li>I have 6 kids</li>
-<li>I broke my jaw</li>
-</ul>
-
+1. I lived in OR
+2. I lived in MA
+3. I lived in CA
 
 
